@@ -75,8 +75,8 @@ This application is rendered under MIT
 
 ## Application 
 
-###Github: 
-###website:
+### Github: https://github.com/fallf/guitar-shop
+### website: fallf/guitar-shop-ff 
 
 ## Contribution
 
