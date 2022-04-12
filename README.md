@@ -66,7 +66,7 @@ This application is rendered under MIT
 *RESTful API.
 *mongodb 
 *CSS
-*Javasript 
+*Javascript 
 *HTML
 *Heroku
 *jwt-decode
